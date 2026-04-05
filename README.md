@@ -1,1 +1,3 @@
-# tup_prog_1_2026_guia5
+# Guía 4.1. Introducción a la programación - Integradora - Iteradores anidados
+
+[Enunciado](https://docs.google.com/document/d/1Q1lbNYj3vTIIic_j7TJSO5lsRKpd23FB/preview)
