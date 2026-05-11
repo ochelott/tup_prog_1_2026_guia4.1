@@ -28,7 +28,7 @@ Proceso sin_titulo
 		Escribir "INGRESE EDAD: ";
 		Leer edad;
 	FinMientras
-	Escribir "Cantidad de niños menores a 12 años: ", cant12;
+	Escribir "Cantidad de niÃ±os menores a 12 aÃ±os: ", cant12;
 	Escribir "Recaudacion del recorrido: $", trunc(recau * 100)/100;
 	Escribir "El numero de pasaje con la menor edad: ", pasajeMenor;
 FinPara
